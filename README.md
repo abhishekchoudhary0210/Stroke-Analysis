@@ -18,7 +18,10 @@ The dataset contains healthcare records related to stroke patients, including de
 - **Create visualizations such as histograms, box plots, and scatter plots.**
 - **Analyze trends and distributions of key features.**
 
-
+#### Data Visualization:
+<p align="center">
+  <img src="Data/Data-Visualisation.png" alt="Data Visualization" width="600">
+</p>
 
 ### 3. Demographic Analysis 👥
 - **Identify the distribution of stroke patients by age, gender, and other relevant demographic factors.**
@@ -44,29 +47,40 @@ The dataset contains healthcare records related to stroke patients, including de
 - **Create an SQL database and relevant tables.**
 - **Load the cleaned dataset into the database.**
 - **Perform SQL queries to extract insights.**
-  
-![Alt text](Data/SQL-Q-1-Output.png)
-![Alt text](Data/SQL-Q-6-Output.png)
+
+#### SQL Query Outputs:
+<p align="center">
+  <img src="Data/SQL-Q-1-Output.png" alt="SQL Query 1 Output" width="600">
+</p>
+
+<p align="center">
+  <img src="Data/SQL-Q-6-Output.png" alt="SQL Query 6 Output" width="600">
+</p>
 
 ### 8. Power BI Dashboard 📉
 - **Load the dataset into Power BI.**
 - **Design a dashboard to visualize key insights.**
 - **Ensure the dashboard is interactive and informative.**
 
-  ![Alt text](Data/Dashboard-Page-1.png)
-  ![Alt text](Data/Dashboard-Page-2.png)
-  
+#### Dashboard Visuals:
+<p align="center">
+  <img src="Data/Dashboard-Page-1.png" alt="Dashboard Page 1" width="600">
+</p>
+
+<p align="center">
+  <img src="Data/Dashboard-Page-2.png" alt="Dashboard Page 2" width="600">
+</p>
 
 ## Tools and Technologies Used 🛠️💻
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn 🐍
-- **SQL:** MySQL/PostgreSQL for data storage and queries 🗃️
-- **Power BI:** Dashboard creation and visualization 📊
-- **Jupyter Notebook/VS Code:** For data analysis and scripting 📓
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn 🐍  
+- **SQL:** MySQL/PostgreSQL for data storage and queries 🗃️  
+- **Power BI:** Dashboard creation and visualization 📊  
+- **Jupyter Notebook/VS Code:** For data analysis and scripting 📓  
 
 ---
 
-This structured approach ensures a comprehensive analysis of stroke risk factors, leveraging powerful tools and technologies to derive actionable insights. 🚀📊
+This structured approach ensures a comprehensive analysis of stroke risk factors, leveraging powerful tools and technologies to derive actionable insights. 🚀📊  
 
 ## Contact Information 📧
-- **Email:** [abhifbd02@gmail.com](mailto:abhifbd02@gmail.com)
-- **LinkedIn:** [Abhishek Choudhary](https://www.linkedin.com/in/abhishek-choudhary-021098fbd)
+- **Email:** [abhifbd02@gmail.com](mailto:abhifbd02@gmail.com)  
+- **LinkedIn:** [Abhishek Choudhary](https://www.linkedin.com/in/abhishek-choudhary-021098fbd)  
