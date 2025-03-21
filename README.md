@@ -18,6 +18,8 @@ The dataset contains healthcare records related to stroke patients, including de
 - **Create visualizations such as histograms, box plots, and scatter plots.**
 - **Analyze trends and distributions of key features.**
 
+
+
 ### 3. Demographic Analysis 👥
 - **Identify the distribution of stroke patients by age, gender, and other relevant demographic factors.**
 - **Create visualizations such as pie charts or bar plots.**
@@ -42,11 +44,18 @@ The dataset contains healthcare records related to stroke patients, including de
 - **Create an SQL database and relevant tables.**
 - **Load the cleaned dataset into the database.**
 - **Perform SQL queries to extract insights.**
+  
+![Alt text](Data/SQL-Q-1-Output.png)
+![Alt text](Data/SQL-Q-6-Output.png)
 
 ### 8. Power BI Dashboard 📉
 - **Load the dataset into Power BI.**
 - **Design a dashboard to visualize key insights.**
 - **Ensure the dashboard is interactive and informative.**
+
+  ![Alt text](Data/Dashboard-Page-1.png)
+  ![Alt text](Data/Dashboard-Page-2.png)
+  
 
 ## Tools and Technologies Used 🛠️💻
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn 🐍
